@@ -23,8 +23,6 @@ Use try/except para capturar e tratar os erros apropriadamente.
 Após cada erro, o programa deve informar o usuário sobre o erro e solicitar nova entrada.
 
 Quando uma operação é concluída com sucesso, exiba o resultado e encerre o programa.
-
-Não use funções ou classes adicionais, apenas o código principal do programa.
 """
 
 while True:
